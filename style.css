@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(184, 211, 247);
+    background-color: rgb(247, 222, 184);
 }
 
 .container {
@@ -12,7 +12,7 @@ body {
 .calculator {
     width: 320px;
     height: 520px;
-    background-color: rgba(108, 122, 137);
+    background-color: rgb(137, 126, 108);
     margin: 0 auto;
     top: 20px;
     position: relative;
@@ -56,11 +56,11 @@ body {
 }
 
 .number {
-    background-color: #eaedef;
+    background-color: #ffffff;
 }
 
 .empty{
-    background-color: rgba(108, 122, 137);
+    background-color: rgb(137, 125, 108);
 }
 .operator {
     background-color: lightgrey;
@@ -80,22 +80,22 @@ body {
 
 .operator:nth-child(4) {
     font-size: 20px;
-    background-color: rgba(20, 205, 200);;
+    background-color: rgb(255, 174, 0);;
 }
 
 .operator:nth-child(8) {
     font-size: 20px;
-    background-color: rgba(20, 205, 200);}
-
+    background-color: rgb(255, 174, 0);;
+}
 .operator:nth-child(12) {
     font-size: 20px;
-    background-color: rgba(20, 205, 200);}
-
+    background-color: rgb(255, 174, 0);;
+}
 .operator:nth-child(16) {
     font-size: 20px;
-    background-color: rgba(20, 205, 200);}
-
+    background-color: rgb(255, 174, 0);;
+}
 .operator:nth-child(20) {
     font-size: 20px;
-    background-color: rgba(20, 205, 200);}
-
+    background-color: rgb(255, 174, 0);;
+}
